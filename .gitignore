@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ExcelAddIn/v15
+/ExcelAddIn/bin/Debug
+/ExcelAddIn/obj
+/.vs/Excel-Addin/v15
+/.vs
